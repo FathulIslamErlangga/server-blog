@@ -1,0 +1,872 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "slug": "Apa-Bedanya-Kotlin-dengan-Swift-Bukankah-Sama",
+      "title": "Apa Bedanya Kotlin dengan Swift, Bukankah Sama?",
+      "categoryId": 1,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": "Apa Bedanya Kotlin dengan Swift, Bukankah Sama?"
+        },
+        {
+          "type": "text",
+          "content": "Kotlin dan Swift adalah dua bahasa pemrograman modern yang sering dibandingkan karena keduanya digunakan untuk pengembangan aplikasi mobile pada platform yang berbeda, yaitu Android dan iOS. Meskipun ada beberapa kesamaan, terdapat pula perbedaan mendasar antara keduanya:"
+        },
+        {
+          "type": "title",
+          "content": "1. Variable dan Data Type"
+        },
+        {
+          "type": "text",
+          "content": "Pada variabel dan tipe data, keduanya memiliki cara deklarasi yang hampir sama; val pada Kotlin dan let pada Swift untuk variabel yang tidak dapat diubah, serta var dalam kedua bahasa untuk variabel yang dapat diubah."
+        },
+        {
+          "type": "title",
+          "content": "2. Definition Syntax"
+        },
+        {
+          "type": "text",
+          "content": "Pada sintaksis definisi fungsi, Kotlin menggunakan fun dan Swift menggunakan func, keduanya dengan cara yang serupa untuk mendefinisikan dan mengembalikan nilai."
+        },
+        {
+          "type": "title",
+          "content": "3. Lambda Expressions"
+        },
+        {
+          "type": "text",
+          "content": "Ekspresi lambda dalam Kotlin dan Swift juga mirip, meski dengan perbedaan kecil pada sintaksis penulisan."
+        },
+        {
+          "type": "title",
+          "content": "4. Type Inference"
+        },
+        {
+          "type": "text",
+          "content": "Untuk type inference, baik Kotlin maupun Swift dapat menentukan tipe variabel berdasarkan nilai yang diberikan tanpa eksplisit menyatakan tipe tersebut."
+        },
+        {
+          "type": "title",
+          "content": "5. Classes"
+        },
+        {
+          "type": "text",
+          "content": "Dalam mendefinisikan kelas, Kotlin menggunakan pendekatan lebih ringkas dibanding Swift, yang memerlukan inisialisasi eksplisit untuk properti."
+        },
+        {
+          "type": "title",
+          "content": "Kesimpulan"
+        },
+        {
+          "type": "text",
+          "content": "Mempelajari iOS development sebagai Android developer menawarkan berbagai manfaat, termasuk peluang karier yang lebih luas, kemampuan untuk terlibat dalam proyek multiplatform, dan pengembangan keterampilan yang lebih kaya. Walaupun Kotlin dan Swift memiliki perbedaan dalam sintaks dan fitur, keduanya memiliki banyak kesamaan yang memudahkan transisi dari satu bahasa ke bahasa lainnya."
+        },
+        {
+          "type": "text",
+          "content": "Jika Anda seorang Android Developer yang ingin memperluas keterampilan dan memasuki dunia iOS, belajar Swift akan menjadi langkah yang sangat berharga. Dengan berbagai keuntungan dan kemudahan transisi antara Kotlin dan Swift, Anda dapat meningkatkan nilai karier dan memberikan kontribusi yang lebih besar dalam berbagai proyek."
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/Banner-Blog-Apa-Bedanya-Kotlin-dengan-Swift.jpg",
+          "caption": "Apa Bedanya Kotlin dengan Swift, Bukankah Sama?"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/1.-Variable-dan-Data-Type.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/3.-Lambda-Expressions.png",
+          "caption": "Lambda Expressions"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/4.-Type-Inference.png",
+          "caption": "Type Inference"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/5.-Classes.png",
+          "caption": "Clasess"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "slug": "Flutter-Developer-Menjadi-iOS-Developer",
+      "title": "Flutter Developer Menjadi iOS Developer",
+      "categoryId": 1,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/Blog-Banner-13.png",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-11T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "slug": "Memahami-Esensi-Bahasa-Pemrograman-C++",
+      "title": "Memahami Esensi Bahasa Pemrograman C++",
+      "categoryId": 1,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/04/BLOG-20-April-2024-Banner-Blog-Memahami-Esensi-Bahasa-Pemrograman-C.jpg",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": false,
+      "publishedDate": "2024-12-13T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "slug": "Tutorial-Belajar-Python-untuk-Calon-Machine-Learning-Developer",
+      "title": "Tutorial Belajar Python untuk Calon Machine Learning Developer",
+      "categoryId": 1,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/04/BLOG_1-2-770x404.jpg",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": false,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "slug": "Mengintegrasikan-Machine-Learning-dengan-Mudah-ke-REST-API",
+      "title": "Mengintegrasikan Machine Learning dengan Mudah ke REST API",
+      "categoryId": 1,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/02/BLOG-7-Februari-2024-Banner-Blog-Mengintegrasikan-Machine-Learning-dengan-mudah-ke-REST-API.png",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": false,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "slug": "Perbedaan-UI-UX-dan-Pentingnya-dalam-Desain-Digital",
+      "title": "Perbedaan UI/UX dan Pentingnya dalam Desain Digital",
+      "categoryId": 2,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/10/Blog-Banner-1.png",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "slug": "5-perbedaan-utama-ui-dan-ux-mana-yang-lebih-penting",
+      "title": "5 Perbedaan Utama UI dan UX, Mana yang Lebih Penting",
+      "categoryId": 2,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2022/07/BLOG-5-Perbedaan-UI-dan-UX-Mana-yang-Lebih-Penting_-1.jpg",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "slug": "3-elemen-dasar-desain-visual-pada-ui-design-yang-wajib-diketahu",
+      "title": "3 Elemen Dasar Desain Visual pada UI Design yang Wajib Diketahui",
+      "categoryId": 2,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2022/06/BLOG-3-Elemen-Dasar-Desain-Visual-pada-UI-Design-yang-Wajib-Diketahui.jpg",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "slug": "bagaimana-sejarah-it-atau-teknologi-informas",
+      "title": "Bagaimana Sejarah IT atau Teknologi Informasi?",
+      "categoryId": 3,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/02/BLOG-24-Februari-2024-Banner-Blog-Bagaimana-Sejarah-IT-atau-Teknologi-Informasi_.jpg",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "slug": "ai-adalah-teknologi-yang-dapat-mempermudah-kehidupan-manusia",
+      "title": "Bagaimana Sejarah IT atau Teknologi Informasi?",
+      "categoryId": 3,
+      "authorId": 1,
+      "contents": [
+        {
+          "type": "title",
+          "content": " Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "text",
+          "content": "Hi, Sobat Flutter developer! Membangun aplikasi multiplatform memang terasa menyenangkan, bukan? Dengan bahasa Dart yang mudah dipelajari, Flutter memungkinkan kita membuat aplikasi berbasis satu kode untuk berbagai platform: Android, iOS, desktop, hingga website. Efisiensi waktu dan biaya menjadi keunggulan utama."
+        },
+        {
+          "type": "title",
+          "content": "Flutter di Mata Dunia"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menjadi salah satu alternatif ketika kamu ingin membangun aplikasi multiplatform dengan satu codebase saja. Ditinjau dari sisi bisnis, biaya yang perlu dikeluarkan untuk membangun aplikasi akan jauh lebih murah dibanding membangunnya secara terpisah atau native."
+        },
+        {
+          "type": "text",
+          "content": "Bayangkan, jika perusahaan memintamu menuliskan aplikasi secara native, kamu akan menangani minimal dua basis kode, Android dan iOS. Bagaimana jika aplikasi perlu dikembangkan untuk desktop dan website? Kamu akan kerepotan, bukan? Perusahaan pun akan menambah karyawan atau tim untuk menangani masing-masing basis kode tersebut."
+        },
+        {
+          "type": "text",
+          "content": "Oleh karena itu, jika ada teknologi yang memungkinkan pengembangan aplikasi dalam beberapa platform sekaligus hanya dengan satu codebase, tentunya lebih hemat, bukan? Pastinya akan jadi lebih efisien dari sisi biaya, waktu, dan tenaga. "
+        },
+        {
+          "type": "title",
+          "content": "Memungkinkan Kita untuk Membuat Aplikasi yang Indah (Beautiful)"
+        },
+        {
+          "type": "text",
+          "content": "Desainer dapat dengan bebas berkreasi tanpa adanya banyak batasan dari framework. Flutter juga dapat mengontrol setiap piksel yang ada di layar sehingga memudahkan dalam membuat animasi. Flutter menyediakan banyak komponen material design yang dapat berjalan baik pada Android, iOS, dan web. "
+        },
+        {
+          "type": "title",
+          "content": "Berjalan dengan Sangat Cepat (Fast)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter menggunakan graphic engine bernama lmpeller yang digunakan pada platform iOS, Android, dan macOS, serta Skia pada platform lain. Kode Flutter menggunakan bahasa Dart, yang memungkinkan untuk dikompilasi ke kode native 32-bit serta 64-bit ARM untuk iOS dan Android. "
+        },
+        {
+          "type": "title",
+          "content": "Sangat Produktif (Productive)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        },
+        {
+          "type": "title",
+          "content": "Bersifat Terbuka (Open Source)"
+        },
+        {
+          "type": "text",
+          "content": "Flutter memiliki fitur hot-reload yang memungkinkan kamu untuk melihat hasil kompilasi secara real-time. Dengan hot-reload, kamu dapat dengan mudah melihat perubahan kode pada perangkat, tanpa perlu menunggu restart dan kehilangan state"
+        }
+      ],
+      "gallery": [
+        {
+          "type": "cover",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2023/10/BLOG-BANNER-1-November-2023-Banner-Blog-AI-adalah-Teknologi-yang-dapat-Mempermudah-Kehidupan-Manusia.jpg",
+          "caption": "Flutter Developer Menjadi iOS Developer"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/12/image2.png",
+          "caption": "Variable dan Data Type"
+        },
+        {
+          "type": "image",
+          "imageUrl": "https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2024/09/2.-Definition-Syntax.png",
+          "caption": "Definition Syntax"
+        }
+      ],
+      "popularity": true,
+      "publishedDate": "2024-12-05T10:00:00Z"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Programming", "slug": "programming" },
+    { "id": 2, "name": "UI/UX", "slug": "UI-UX" },
+    { "id": 3, "name": "Technology", "slug": "technology" }
+  ],
+  "authors": [
+    { "id": 1, "name": "Fathul Islam", "bio": "Seorang developer full-stack." },
+    { "id": 2, "name": "John Doe", "bio": "Penulis konten profesional." }
+  ]
+}
